@@ -1,25 +1,3 @@
-main.m
-C
-M
-
-类型
-Objective C
-大小
-20 KB (20,737个字节)
-已使用的存储空间：
-40 KB (40,621个字节)
-位置
-Assistive Robot
-所有者
-我
-上次修改
-2018年7月27日，我
-上次打开时间
-下午8:41，我自己
-创建时间：
-2018年7月26日，使用的应用：Google Drive Web
-添加说明
-查看者可以下载
 % open the doors and transfer the food container
     % The following script makes the baxter on wheel open the fridge door
     % and take out a food container and put it into the microwave oven when
